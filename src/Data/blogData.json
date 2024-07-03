@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "category": "React",
+      "content": "React is a JavaScript library for building user interfaces...",
+      "url": "https://www.guvi.in/blog/full-stack-development-project-ideas/"
+    },
+    {
+      "id": 2,
+      "title": "Advanced React Patterns",
+      "category": "React",
+      "content": "As your React application grows...",
+      "url": "https://github.com/kentcdodds/advanced-react-patterns"
+    },
+    {
+      "id": 3,
+      "title": "Getting Started with Node.js",
+      "category": "Node.js",
+      "content": "Node.js is a JavaScript runtime built on Chrome's V8 engine...",
+      "url": "https://www.geeksforgeeks.org/nodejs/"
+    },
+    {
+      "id": 4,
+      "title": "Understanding Express.js",
+      "category": "Node.js",
+      "content": "Express is a minimal and flexible Node.js web application framework...",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction"
+    },
+    {
+      "id": 5,
+      "title": "CSS for Beginners",
+      "category": "CSS",
+      "content": "CSS is a language that describes the style of an HTML document...",
+      "url": "https://www.geeksforgeeks.org/css-tutorial/"    
+    }
+  ]
+  

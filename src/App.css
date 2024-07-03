@@ -1,0 +1,23 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+.blog {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.blog h2 {
+  margin-top: 0;
+}
+.blog-card{
+  height: 250px;
+  border: 1px solid black;
+}
